@@ -1,0 +1,15 @@
+H:\PROJECTS\OOP_lab_2(3.2)\OOP_lab_2(3.2)\bin\Debug\net6.0\OOP_lab_2(3.2).exe
+H:\PROJECTS\OOP_lab_2(3.2)\OOP_lab_2(3.2)\bin\Debug\net6.0\OOP_lab_2(3.2).deps.json
+H:\PROJECTS\OOP_lab_2(3.2)\OOP_lab_2(3.2)\bin\Debug\net6.0\OOP_lab_2(3.2).runtimeconfig.json
+H:\PROJECTS\OOP_lab_2(3.2)\OOP_lab_2(3.2)\bin\Debug\net6.0\OOP_lab_2(3.2).dll
+H:\PROJECTS\OOP_lab_2(3.2)\OOP_lab_2(3.2)\bin\Debug\net6.0\OOP_lab_2(3.2).pdb
+H:\PROJECTS\OOP_lab_2(3.2)\OOP_lab_2(3.2)\obj\Debug\net6.0\OOP_lab_2(3.2).csproj.AssemblyReference.cache
+H:\PROJECTS\OOP_lab_2(3.2)\OOP_lab_2(3.2)\obj\Debug\net6.0\OOP_lab_2(3.2).GeneratedMSBuildEditorConfig.editorconfig
+H:\PROJECTS\OOP_lab_2(3.2)\OOP_lab_2(3.2)\obj\Debug\net6.0\OOP_lab_2(3.2).AssemblyInfoInputs.cache
+H:\PROJECTS\OOP_lab_2(3.2)\OOP_lab_2(3.2)\obj\Debug\net6.0\OOP_lab_2(3.2).AssemblyInfo.cs
+H:\PROJECTS\OOP_lab_2(3.2)\OOP_lab_2(3.2)\obj\Debug\net6.0\OOP_lab_2(3.2).csproj.CoreCompileInputs.cache
+H:\PROJECTS\OOP_lab_2(3.2)\OOP_lab_2(3.2)\obj\Debug\net6.0\OOP_lab_2(3.2).dll
+H:\PROJECTS\OOP_lab_2(3.2)\OOP_lab_2(3.2)\obj\Debug\net6.0\refint\OOP_lab_2(3.2).dll
+H:\PROJECTS\OOP_lab_2(3.2)\OOP_lab_2(3.2)\obj\Debug\net6.0\OOP_lab_2(3.2).pdb
+H:\PROJECTS\OOP_lab_2(3.2)\OOP_lab_2(3.2)\obj\Debug\net6.0\OOP_lab_2(3.2).genruntimeconfig.cache
+H:\PROJECTS\OOP_lab_2(3.2)\OOP_lab_2(3.2)\obj\Debug\net6.0\ref\OOP_lab_2(3.2).dll
